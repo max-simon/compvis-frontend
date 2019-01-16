@@ -1,5 +1,8 @@
 # CvFront2
 
+Deploy with: `ng build --prod`, change base to `/v2/` in `dist/cv-front2/index.html` and copy content to `/media/dataDrive/www/html/v2`
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.2.
 
 ## Development server

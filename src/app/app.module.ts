@@ -33,8 +33,6 @@ import { IndicesListComponent } from './indices-list/indices-list.component';
 import { ReviewComponent } from './review/review.component';
 import { NewCollectionComponent } from './new-collection/new-collection.component';
 import { NewIndexComponent } from './new-index/new-index.component';
-import { ResourcesComponent } from './resources/resources.component';
-import { JobListComponent } from './job-list/job-list.component';
 import { UserItemComponent } from './user-item/user-item.component';
 import { UserListComponent } from './user-list/user-list.component';
 import { UserPageComponent } from './user-page/user-page.component';
@@ -149,8 +147,6 @@ const appRoutes: Routes = [
     // UploadComponent,
     NewCollectionComponent,
     NewIndexComponent,
-    ResourcesComponent,
-    JobListComponent,
     UserItemComponent,
     UserListComponent,
     UserPageComponent,
